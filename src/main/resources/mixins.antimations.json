@@ -1,0 +1,7 @@
+{
+  "package": "at.yedel.antimations.mixin",
+  "plugin": "at.yedel.antimations.init.AutoDiscoveryMixinPlugin",
+  "refmap": "mixins.${modid}.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.7"
+}
